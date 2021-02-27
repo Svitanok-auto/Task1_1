@@ -1,0 +1,7 @@
+C:\Users\Sveta\source\repos\ConsoleApp1_1\bin\Debug\ConsoleApp1_1.exe.config
+C:\Users\Sveta\source\repos\ConsoleApp1_1\bin\Debug\ConsoleApp1_1.exe
+C:\Users\Sveta\source\repos\ConsoleApp1_1\bin\Debug\ConsoleApp1_1.pdb
+C:\Users\Sveta\source\repos\ConsoleApp1_1\obj\Debug\ConsoleApp1_1.csprojAssemblyReference.cache
+C:\Users\Sveta\source\repos\ConsoleApp1_1\obj\Debug\ConsoleApp1_1.csproj.CoreCompileInputs.cache
+C:\Users\Sveta\source\repos\ConsoleApp1_1\obj\Debug\ConsoleApp1_1.exe
+C:\Users\Sveta\source\repos\ConsoleApp1_1\obj\Debug\ConsoleApp1_1.pdb
