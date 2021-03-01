@@ -78,7 +78,7 @@ namespace ConsoleApp1_1
                     {
                         // this class's error string
                         string LastError = sex.Message;
-                        Console.WriteLine("\nIncorrect Input, error" + LastError +" \nTry again otherwise random value will be taken");
+                        Console.WriteLine("\nIncorrect Input, error" + LastError +" \nTry again otherwise random value will be taken ");
                         e++;
                     }
                 }
